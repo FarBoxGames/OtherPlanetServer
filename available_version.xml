@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <available>
-	<version 
-       name="Other Planet"
-			 description="Новая версия готова для загрузки" 
-			 version="0.16" 
-			 versionType="Alpha" 
-			 history="history.rtf" 
-			 file="https://raw.githubusercontent.com/FarBoxGames/OtherPlanetServer/master/LINK.zip"/> 
-	<versions>
-	</versions>
+  <versions>
+    <version name="Other Planet" version="0.16" description="Новая версия готова для загрузки" versionType="Alpha" file="https://raw.githubusercontent.com/FarBoxGames/OtherPlanetServer/master/LINK.zip"/>
+  </versions>
 </available>
